@@ -1,3 +1,7 @@
+# Description
+
+A small script-like proof of concept for a neural network that can predict Electric Load Demand.
+
 # Getting started
 
 ## Installation
