@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+
+delivery
+env
+report
+best_model_*.pth
+best.csv
+pyvenv.cfg
