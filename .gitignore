@@ -6,3 +6,4 @@ report
 best_model_*.pth
 best.csv
 pyvenv.cfg
+__pycache__
