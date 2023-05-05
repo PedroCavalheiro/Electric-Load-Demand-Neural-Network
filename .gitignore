@@ -7,3 +7,4 @@ best_model_*.pth
 best.csv
 pyvenv.cfg
 __pycache__
+eld180dias.txt
